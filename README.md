@@ -1,3 +1,3 @@
 # Python-Crash-Course-Projects
 
-Projects created straight from book
+Code along projects created straight from the book
