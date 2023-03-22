@@ -4,7 +4,7 @@ print("\nMoving Items from One List to Another")
 # Start with users that need to be verified,
 # and an empty list to hold confirmed users.
 
-unconfirmed_users = {'alice', 'brian', 'candace'}
+unconfirmed_users = ['alice', 'brian', 'candace']
 confirmed_users = []
 
 # Verify each user until ther are no more unconfirmed users.
