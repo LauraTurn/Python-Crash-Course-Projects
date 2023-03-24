@@ -1,4 +1,4 @@
-print("\nUsing Continue in a Loop")
+print("\nUsing A While Loop with Lists and Dictionaries")
 print("\nMoving Items from One List to Another")
 
 # Start with users that need to be verified,
